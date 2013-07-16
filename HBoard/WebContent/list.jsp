@@ -2,6 +2,12 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <table border=1>
 	<tr>
-		<td>번호ㅇㄹㄹㅇㅇ</td>
+		<td>
+			<table border=1>
+				<tr>
+					<td>번호ㅇㄹㄹㅇㅇ</td>
+				</tr>
+			</table>
+		</td>
 	</tr>
-</table>
+<%@ include file="/common/jsp/footer.jsp"%>
