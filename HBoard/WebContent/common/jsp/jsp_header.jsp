@@ -26,3 +26,7 @@ response.setCharacterEncoding("UTF-8");
 <title>게시판 입니다ㅁ.</title>
 </head>
 <body>
+<table border=2 cellspacing=0 cellpadding=0 width=100%>
+	<tr>
+		<td>
+	
